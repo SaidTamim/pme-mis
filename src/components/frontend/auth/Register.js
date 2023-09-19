@@ -19,6 +19,7 @@ function Register(){
     }
 
 
+    
     // const onChangeName = (e)=> {
     //      setRegister({  name: e.target.value })
     // }
